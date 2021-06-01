@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "AWS VPC Section - Solutions Arch exam notes"
+title:  "VPC Section - AWS Solutions Arch exam notes"
 date:   2021-05-30 23:00:00 -0800
-categories: jekyll update
+categories: aws_exam_notes
 ---
 
 # VPC Section
@@ -26,6 +26,7 @@ categories: jekyll update
   - route table
   - Network ACLs
   - security group
+
 ### Subnets
  - by default they are not assigned public ipv4 address
  - 5 IPs are reserved by amazon [VPC and Subnet sizing for ipv4](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html#VPC_Sizing)
